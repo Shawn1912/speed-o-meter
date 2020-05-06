@@ -55,7 +55,7 @@ body {
 .speedbox__base {
   width: 240px;
   height: 100px;
-  background: orange;
+  background: white;
   position: relative;
   top: 100px;
   z-index: 20;
